@@ -1,4 +1,13 @@
+// =====================================================
+// PROPRIETARY AND CONFIDENTIAL
+// Copyright (c) 2025 Ranvijay Kumar
+// All Rights Reserved
+// Project: Personal Portfolio
+// Owner: ranvijay-kumar4
+// =====================================================
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { useEffect } from "react";
 import { AppProvider } from "./context/AppContext";
 import { useAppContext } from "./context/AppContext";
 import { LoadingScreen } from "./components/common/LoadingScreen";
@@ -11,14 +20,22 @@ import { ExperiencePage } from "./pages/ExperiencePage";
 import { AchievementsPage } from "./pages/AchievementsPage";
 import { ProjectsPage } from "./pages/ProjectsPage";
 import { ContactPage } from "./pages/ContactPage";
+import { initializeAllProtections } from "./utils/protection";
 import "./index.css";
 
 /**
  * AppContent component - handles loading state and routing
  * Separated to use AppContext hooks
+ * @author Ranvijay Kumar
+ * @copyright 2025 Ranvijay Kumar
  */
 function AppContent() {
   const { isLoaded, setIsLoaded } = useAppContext();
+
+  // Initialize protection systems
+  useEffect(() => {
+    initializeAllProtections();
+  }, []);
 
   return (
     <>

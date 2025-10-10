@@ -1,4 +1,15 @@
-// Project Data
+// =====================================================
+// PROPRIETARY AND CONFIDENTIAL
+// Copyright (c) 2025 Ranvijay Kumar
+// All Rights Reserved
+// 
+// Project Data Configuration
+// Owner: ranvijay-kumar4
+// Email: ranvijaykumar4405@gmail.com
+// 
+// NOTICE: This file contains proprietary information.
+// Unauthorized copying or use is strictly prohibited.
+// =====================================================
 export const projects = [
   {
     id: 1,

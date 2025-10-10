@@ -13,7 +13,14 @@ dist-ssr
 *.local
 
 .env
-# Video Link : https://youtu.be/LGdPMf-SgBA
+
+# Ignore all markdown files except README.md
+*.md
+!README.md
+
+# Keep metadata for copyright tracking
+!src/.metadata
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

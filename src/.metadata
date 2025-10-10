@@ -1,0 +1,23 @@
+{
+  "project": "ranvijay-portfolio",
+  "owner": "ranvijay-kumar4",
+  "copyright": "© 2025 Ranvijay Kumar. All Rights Reserved.",
+  "email": "ranvijaykumar4405@gmail.com",
+  "github": "https://github.com/ranvijay-kumar4",
+  "linkedin": "https://linkedin.com/in/ranvijay-kumar4",
+  "fingerprint": "UmFudmlqYXlLdW1hci1Qb3J0Zm9saW8tMjAyNQ==",
+  "created": "2025-01-10",
+  "license": "PROPRIETARY",
+  "notice": "This portfolio is the exclusive intellectual property of Ranvijay Kumar. Any unauthorized copying, modification, distribution, or use is strictly prohibited and may result in legal action. This software is provided for viewing purposes only to assess the owner's skills and qualifications. It is NOT a template and may NOT be used as a foundation for other projects.",
+  "authorized_domains": [
+    "localhost",
+    "127.0.0.1",
+    "ranvijay-portfolio.vercel.app",
+    "ranvijay-kumar4.github.io"
+  ],
+  "version": "1.0.0",
+  "build_date": "2025-01-10",
+  "legal_notice": "All content, code, design, and materials are protected under copyright law. Violations will be prosecuted to the fullest extent of the law.",
+  "contact_for_permissions": "ranvijaykumar4405@gmail.com"
+}
+
