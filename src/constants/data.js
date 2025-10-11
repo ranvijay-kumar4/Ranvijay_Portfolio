@@ -128,14 +128,14 @@ export const skills = [
     id: 6,
     category: "AI Tools",
     skills: [
-      { name: "Cursor AI", color: "text-blue-400", hoverColor: "group-hover:text-blue-200" },
+      { name: "Cursor", color: "text-blue-400", hoverColor: "group-hover:text-blue-200" },
       { name: "ChatGPT", color: "text-green-400", hoverColor: "group-hover:text-green-200" },
       { name: "DeepSeek", color: "text-purple-400", hoverColor: "group-hover:text-purple-200" },
       { name: "GitHub Copilot", color: "text-cyan-400", hoverColor: "group-hover:text-cyan-200" },
-      { name: "V0 by Vercel", color: "text-white", hoverColor: "group-hover:text-gray-300" },
-      { name: "Gamma AI", color: "text-pink-400", hoverColor: "group-hover:text-pink-200" },
-      { name: "Perplexity AI", color: "text-indigo-400", hoverColor: "group-hover:text-indigo-200" },
-      { name: "Gemini AI", color: "text-blue-500", hoverColor: "group-hover:text-blue-300" },
+      { name: "V0", color: "text-white", hoverColor: "group-hover:text-gray-300" },
+      { name: "Gamma", color: "text-pink-400", hoverColor: "group-hover:text-pink-200" },
+      { name: "Perplexity", color: "text-indigo-400", hoverColor: "group-hover:text-indigo-200" },
+      { name: "Gemini", color: "text-blue-500", hoverColor: "group-hover:text-blue-300" },
     ],
   },
 ];
@@ -216,7 +216,7 @@ export const personalInfo = {
 
 // Education Data
 export const education = {
-  degree: "Bachelor of Technology - IT",
+  degree: "Bachelor of Technology - Information Technology",
   institution: "Jabalpur Engineering College, Jabalpur",
   duration: "2022 - 2026",
 };
@@ -275,8 +275,8 @@ export const achievements = [
   {
     id: 2,
     category: "Hackathon",
-    title: "Top 25 at DPBH 2023, IIT BHU",
-    description: "Secured Top 25 rank among 200+ teams at Design for Policy by Bharat Hackathon (DPBH) 2023, IIT BHU. Collaborated with the Ministry of Consumer Affairs, Government of India on deceptive UI/UX patterns. Selected for Smart India Hackathon (SIH) 2023, representing Jabalpur Engineering College in a national-level product engineering competition.",
+    title: "Under Top 25 at DPBH 2023, IIT BHU",
+    description: "Secured rank under Top 25 among 200+ teams at Dark Pattern Buster Hackathon (DPBH) 2023, IIT BHU. Collaborated with the Ministry of Consumer Affairs, Government of India on deceptive UI/UX patterns. Selected for Smart India Hackathon (SIH) 2023, representing Jabalpur Engineering College in a national-level product engineering competition.",
     icon: "trophy",
     gradient: "from-amber-400 via-orange-400 to-red-400",
     bgGradient: "from-amber-500/10 via-orange-500/10 to-red-500/10",
@@ -286,8 +286,8 @@ export const achievements = [
     iconBg: "from-amber-500/30 to-orange-500/30",
     statColor: "from-yellow-400 to-orange-400",
     highlights: [
-      "Top 25 among 200+ teams",
-      "Collaboration with Government of India",
+      "Within top 25 among 200+ teams",
+      "Collaboration with IIT BHU and Ministry of Consumer Affairs (Government of India)",
       "Selected for SIH 2023",
       "National-level competition",
     ],
@@ -327,6 +327,7 @@ export const achievements = [
     statColor: "from-green-400 to-teal-400",
     highlights: [
       "Event Management Head - KaarwaaN.JEC",
+      "Active Member (Manak Mitra) - Bureau of Indian Standards (Government of India), Nagpur division",
       "5+ social outreach events organized",
       "Representative across 3 batches",
       "Academic & student welfare advocacy",
