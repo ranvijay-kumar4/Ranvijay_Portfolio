@@ -216,7 +216,7 @@ export const personalInfo = {
 
 // Education Data
 export const education = {
-  degree: "Bachelor of Technology in Information Technology",
+  degree: "Bachelor of Technology - IT",
   institution: "Jabalpur Engineering College, Jabalpur",
   duration: "2022 - 2026",
 };
