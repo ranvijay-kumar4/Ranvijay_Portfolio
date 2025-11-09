@@ -38,29 +38,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 - Node.js (v16 or higher)
 - npm or yarn
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/ranvijay-kumar4/React_Portfolio.git
-
-# Navigate to project directory
-cd React_portfolio
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-The application will open at `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
 
 ## 📬 Connect With Me
 
